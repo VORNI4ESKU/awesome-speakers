@@ -1137,6 +1137,14 @@ https://twitter.com/roman01la
 Topics: Maps, Algorithms\
 https://twitter.com/mourner
 
+
+
+<img src="https://twitter.com/akella/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Yuri Artyukh**\
+Topics: HTML, CSS, JavaScript, WebGL  \
+https://twitter.com/akella
+
 ### Poltava
 
 <img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
