@@ -1121,6 +1121,13 @@ https://twitter.com/SilentImp
 
 <img src="https://pbs.twimg.com/profile_images/977986397415108608/Qnyz13mB_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
+
+**Yuri Artyukh**\
+Topics: HTML, CSS, Web Standards, JavaScript, CSS, WebGL \
+https://twitter.com/akella
+
+<img src="https://www.facebook.com/photo.php?fbid=10156310437256742&set=a.463900631741&type=3&theater" height="70px" width="70px" align="left" alt="" />
+
 **Artem Yavorsky**\
 Topics: Babel, ECMAScript, Compilers\
 [https://twitter.com/yavorsky\_](https://twitter.com/yavorsky_)
